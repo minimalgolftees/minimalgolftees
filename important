@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MinimalGolfTees | Buy Wooden Golf Tees</title>
+  <meta name="description" content="Buy MinimalGolfTees – 50 premium wooden golf tees for £2. Fast UK shipping. Simple. Minimal. Reliable." />
+  <style>
+    body { margin:0; font-family:Arial, Helvetica, sans-serif; background:#f7f7f7; color:#111; }
+    header { padding:60px 20px; text-align:center; background:#ffffff; }
+    header h1 { font-size:3rem; margin-bottom:10px; }
+    header p { max-width:600px; margin:0 auto 30px; color:#444; }
+    .btn { padding:14px 30px; background:#111; color:#fff; text-decoration:none; border-radius:30px; font-weight:bold; }
+    section { padding:60px 20px; max-width:1100px; margin:auto; }
+    .product { display:grid; grid-template-columns:1fr 1fr; gap:40px; background:#fff; padding:40px; border-radius:16px; }
+    .product img { width:100%; border-radius:12px; }
+    .price { font-size:2rem; margin:20px 0; }
+    .features { margin-top:20px; }
+    .features li { margin-bottom:10px; }
+    .checkout { margin-top:30px; }
+    .info-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:30px; margin-top:40px; }
+    .card { background:#fff; padding:30px; border-radius:16px; }
+    footer { background:#111; color:#fff; text-align:center; padding:30px 20px; margin-top:60px; }
+    @media(max-width:800px){ .product{ grid-template-columns:1fr; } }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>MinimalGolfTees</h1>
+  <p>Clean design. Reliable performance. High‑quality wooden golf tees delivered direct to your door.</p>
+  <a href="#buy" class="btn">Buy Now</a>
+</header>
+
+<section id="buy">
+  <div class="product">
+    <div>
+      <img src="https://via.placeholder.com/600x400?text=Minimal+Golf+Tees" alt="Minimal Golf Tees" />
+    </div>
+    <div>
+      <h2>50 Wooden Golf Tees</h2>
+      <p>Perfect for practice rounds, casual play, and golfers who want simple, dependable tees.</p>
+      <div class="price">£2.00</div>
+      <ul class="features">
+        <li>✔ 50 premium wooden tees</li>
+        <li>✔ Consistent height & strength</li>
+        <li>✔ Minimal, no‑nonsense design</li>
+        <li>✔ Fast UK shipping</li>
+      </ul>
+      <div class="checkout">
+        <p><strong>Coming soon:</strong> Secure online payments.</p>
+<p>You’ll be able to order directly from this site very soon. For now, please contact us to place an order.</p>
+<a href="#contact" class="btn">Contact to Order</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="info-grid">
+    <div class="card">
+      <h3>Shipping</h3>
+      <p>UK shipping only. Orders are packed within 24 hours and sent via Royal Mail.</p>
+    </div>
+    <div class="card">
+      <h3>Payments</h3>
+      <p>Secure checkout via PayPal. No account required – pay with card or PayPal balance.</p>
+    </div>
+    <div class="card">
+      <h3>Returns</h3>
+      <p>If there’s an issue with your order, contact us within 14 days and we’ll sort it.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2 style="text-align:center">Contact</h2>
+  <p style="text-align:center">Email: <strong>info@minimalgolftees.co.uk</strong><br>Instagram: <strong>@MinimalGolfTees</strong></p>
+</section>
+
+<footer>
+  <p>© 2026 MinimalGolfTees. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
